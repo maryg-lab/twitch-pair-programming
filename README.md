@@ -11,6 +11,7 @@ With guest - @appboy
        
        To try this simple project:
        > npm install
+       
        > npm start
        
        Then open up a browser:
