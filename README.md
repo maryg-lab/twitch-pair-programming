@@ -9,16 +9,20 @@ With guest - @appboy
      * Share portal; 
      * Set up simple fun project to get "Dad's jokes" using Node.js, express.js, axios.js (HTTP client that makes asychronous promise-based requests to Node.js)
        
-       To try this simple project:
-       > npm install
+     To try this simple project:
+     ## MAKE SURE YOU HAVE Node.js installed.  Please see https://nodejs.dev/learn/how-to-install-nodejs for details if you have not already done so.
        
-       > npm start
+     > npm init
+      
+     > npm install
        
-       Then open up a browser:
-       > http://localhost:8080/joke
+     > npm start
+       
+     Then open up a browser:
+     > http://localhost:8080/joke
        
        What to expect:
-       A json object, for example -
+       A JSON object in a string, for example -
             {"id":"hyPmOZLBIBd","joke":"I used to work for a soft drink can crusher. It was soda pressing.","status":200}
             
  
