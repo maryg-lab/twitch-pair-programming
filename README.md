@@ -1,10 +1,10 @@
 # twitch-pair-programming
 
 Experiments with concurrent team-collaborative programming
-On @IBMDeveloper Twitch - Wednesday's Java programming projects with Mary
+On [@IBMDeveloper](https://www.twitch.tv/ibmdeveloper) - Wednesday's Java programming projects with Mary
 
 ### December 23, 2021
-With guest - @[appboy] (https://github.com/human-caching)
+With guest - [@appboy](https://github.com/human-caching)
 - Install Atom and Teletype package
 - Share portal; 
 - Set up simple fun project to get "Dad's jokes" using Node.js, express.js, axios.js (HTTP client that makes asychronous promise-based requests to Node.js)
